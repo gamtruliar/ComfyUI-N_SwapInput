@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_n_swapinput"
+description = "It swap input folder"
+version = "1.0.0"
+license = { file = "MIT License" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/gamtruliar/ComfyUI-N_SwapInput"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "nwcs"
+DisplayName = "N_SwapInput"
+Icon = ""
